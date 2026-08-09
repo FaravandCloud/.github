@@ -1,114 +1,130 @@
-# TrueFlow
+TrueFlow
 
-## Building the future of workplace automation
+Building the future of intelligent HR management
 
-TrueFlow is building a unified platform to help technology-driven companies manage the complete lifecycle of their employees.
+TrueFlow is a modern HR management platform built for growing teams.
 
-From the first day a person joins a company to the day they leave, organizations face countless manual processes, scattered tools, and security risks.
+It brings employee management, attendance, requests, tasks, and payroll into one place — replacing scattered tools, spreadsheets, and manual processes with a simpler way to manage people.
 
-TrueFlow aims to solve this by connecting people, processes, and tools into a single automation layer.
+Our long-term goal is to go beyond storing and managing HR data. TrueFlow is being built to understand that data and help organizations make better decisions about their people.
 
----
+⸻
 
-## Our Vision
+Our Vision
 
-We believe modern companies should not spend their time manually managing repetitive operational workflows.
+We believe HR systems should do more than store data and generate reports.
 
-A company should be able to:
+As teams grow, employee information, requests, attendance, tasks, and other HR processes often become scattered across different tools and spreadsheets. Managing them becomes increasingly time-consuming, while the data itself remains largely unused.
 
-- onboard new team members effortlessly
-- manage internal processes consistently
-- automate access management
-- reduce security risks
-- keep teams aligned across different tools
+TrueFlow aims to bring these processes together in one platform and turn HR data into something useful for decision-making.
 
-Our goal is to become the operational layer that connects organizations with the tools they already use.
+⸻
 
----
+What We Build
 
-## What We Build
+TrueFlow brings the core tools needed to manage people and HR operations into a single platform.
 
-TrueFlow is designed around three core concepts:
+Employee Management
 
-### Employee Lifecycle Management
+Manage employee information and their journey within the organization:
 
-Managing the complete journey of employees:
+* employee profiles
+* onboarding
+* organizational changes
+* offboarding
 
-- onboarding
-- role changes
-- offboarding
-- internal workflows
+Attendance & Requests
 
-### Workflow Automation
+Manage everyday HR processes in one place:
 
-Turning company processes into reliable and trackable workflows:
+* attendance
+* leave requests
+* internal requests
+* approvals
+* request history
 
-- task assignment
-- approvals
-- responsibility tracking
-- process history
+Tasks
 
-### Integration Layer
+Keep HR and organizational tasks visible and trackable:
 
-Connecting the tools companies already depend on:
+* task assignment
+* priorities
+* due dates
+* status tracking
 
-- GitHub
-- Jira
-- Figma
-- Notion
-- Slack
-- and more
+Payroll
 
----
+Bring employee compensation and payroll management into the same HR platform.
 
-## Why TrueFlow?
+⸻
 
-Modern teams rely on dozens of tools, but their processes are still mostly manual.
+Why TrueFlow?
 
-A new employee joins:
+Traditional HR systems often focus on collecting data and producing reports.
 
-- accounts are created manually
-- permissions are assigned manually
-- documents are shared manually
+You enter information.
 
-An employee leaves:
+You export information.
 
-- access removal depends on people remembering every step
-- security risks increase
-- important actions can be missed
+But very little happens in between.
 
-TrueFlow helps organizations replace fragile manual processes with reliable automation.
+Teams shouldn’t have to manage employees across multiple systems, maintain spreadsheets, and manually connect information just to understand what is happening inside their organization.
 
----
+TrueFlow is built around a different idea:
 
-## Open Source
+HR data should help you understand your organization, not just record it.
 
-We believe in building in public.
+⸻
 
-Some parts of TrueFlow are open source to encourage collaboration, transparency, and community contribution.
+Intelligent HR
 
-The core business logic and advanced capabilities remain part of the TrueFlow platform.
+Intelligence is the long-term direction of TrueFlow.
 
----
+We are building toward an HR assistant that can understand the data and context of an organization and help managers make better decisions.
 
-## Current Focus
+Instead of simply answering:
 
-We are currently focused on building the foundation:
+“What happened?”
 
-- organization management
-- employee workflows
-- onboarding/offboarding processes
-- automation infrastructure
-- integrations
+TrueFlow should eventually help answer:
 
----
+“Why is this happening, and what should we do about it?”
 
-## Long-Term Vision
+This includes analyzing patterns in employee behavior, identifying meaningful signals in HR data, and helping organizations make more informed and human decisions.
 
-TrueFlow is not just a workflow tool.
+⸻
 
-Our long-term vision is to build an intelligent operational assistant for technology companies — a system that understands how organizations work and helps them operate more efficiently.
+Open Source
 
----
+We believe in building openly.
+
+Parts of TrueFlow are open source to encourage transparency, collaboration, and contributions from the developer community.
+
+The core product and its advanced capabilities remain part of the TrueFlow platform.
+
+⸻
+
+Current Focus
+
+We are currently focused on building the core HR management foundation:
+
+* employee management
+* attendance
+* requests
+* tasks
+* payroll
+* organization management
+
+The intelligent capabilities will be introduced gradually as the platform and its data foundation mature.
+
+⸻
+
+Long-Term Vision
+
+TrueFlow is being built to become more than an HR management system.
+
+Our long-term vision is an intelligent HR assistant that understands the people, processes, and context of an organization — helping managers move from simply managing HR data to actually understanding their teams.
+
+⸻
 
 Built with ❤️ by the TrueFlow team
