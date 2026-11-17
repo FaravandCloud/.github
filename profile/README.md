@@ -35,20 +35,10 @@ The name says what we aim for: *fara* (فرا) means "beyond" in Persian. Proces
 - **Platforms for organizations** that connect structure, goals and daily work
 - **Design and engineering** done with attention to detail, from the first sketch to the code
 
-## Products
-
-### [TrueFlow](https://trueflow.ir)
-
-A performance management platform in Persian. TrueFlow brings goals, daily tasks, feedback and evaluations into one place, so managers can decide based on the work that was actually done instead of scattered spreadsheets.
-
 ## How we build
 
 - Simple on the surface, careful underneath
 - Fast, accessible interfaces, with first-class support for Persian and right-to-left layouts
 - Honest software: clear about what it does and what it does with your data
-
-## Get in touch
-
-Questions, partnerships or feedback: [info@faravandtech.ir](mailto:info@faravandtech.ir)
 
 <sub>© Faravand Intelligent Processing</sub>
