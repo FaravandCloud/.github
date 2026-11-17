@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://faravandtech.ir">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-horizontal-full-en-white.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/lockup-horizontal-full-en-black.svg">
-      <img src="assets/lockup-horizontal-full-en-black.svg" alt="Faravand Intelligent Processing" width="420">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-horizontal-full-en-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/lockup-horizontal-full-en-black.svg">
+    <img src="assets/lockup-horizontal-full-en-black.svg" alt="Faravand Intelligent Processing" width="420">
+  </picture>
 </p>
 
 <p align="center">
