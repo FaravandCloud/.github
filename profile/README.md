@@ -1,62 +1,54 @@
-<div align="center">
+<p align="center">
+  <a href="https://faravandtech.ir">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-horizontal-full-en-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/lockup-horizontal-full-en-black.svg">
+      <img src="assets/lockup-horizontal-full-en-black.svg" alt="Faravand Intelligent Processing" width="420">
+    </picture>
+  </a>
+</p>
 
-# TrueFlow
+<p align="center">
+  <strong>Beyond processing.</strong><br>
+  We build software that makes work inside organizations simpler.
+</p>
 
-**Performance management for modern organizations**
-
-</div>
+<p align="center">
+  <a href="https://faravandtech.ir">Website</a> ·
+  <a href="https://trueflow.ir">TrueFlow</a> ·
+  <a href="https://www.linkedin.com/company/faravandtech">LinkedIn</a> ·
+  <a href="mailto:info@faravandtech.ir">Contact</a>
+</p>
 
 ---
 
 ## About
 
-TrueFlow builds a performance management platform that brings an organization's work, goals and people
-into a single, connected flow. It gives leaders a clear, reliable view of how work moves across teams and
-how it contributes to organizational objectives. Employees get a transparent, fair framework for
-growth and recognition.
+**Faravand Intelligent Processing** (پردازش هوشمند فراوند) is a software company based in Iran. We design and build products that take the friction out of everyday work in organizations, and help the people who run them decide with better information.
 
-The platform is designed for Persian-speaking organizations from the ground up, with native right-to-left
-support and the Solar Hijri calendar throughout.
+The name says what we aim for: *fara* (فرا) means "beyond" in Persian. Processing data is the starting point; making it useful to people is the job.
 
-## Our Mission
+## What we work on
 
-To help organizations make better decisions about their people. We do this by replacing scattered tools,
-spreadsheets and subjective judgement with a clear, consistent and data-informed way of working.
+- **Software products** that teams can pick up quickly and use every day
+- **Data and AI** applied where it helps, not for show
+- **Platforms for organizations** that connect structure, goals and daily work
+- **Design and engineering** done with attention to detail, from the first sketch to the code
 
-## The Platform
+## Products
 
-TrueFlow covers the full performance lifecycle in one place:
+### [TrueFlow](https://trueflow.ir)
 
-| Area | Description |
-|---|---|
-| **Goal Management** | Define and align objectives across the organization, its teams and individuals. |
-| **Work & Task Management** | Plan, assign and track work, with every task connected to the goals it serves. |
-| **Performance Reviews** | Run structured, consistent and fair evaluation cycles. |
-| **Continuous Feedback** | Encourage ongoing, constructive feedback between managers and team members. |
-| **Insights & Reporting** | Turn day-to-day activity into clear, actionable insight for leadership. |
-| **Intelligent Assistance** | Help users find answers and stay on top of their work. |
-| **Organization Management** | Model departments, teams, roles and permissions to match how the organization works. |
+A performance management platform in Persian. TrueFlow brings goals, daily tasks, feedback and evaluations into one place, so managers can decide based on the work that was actually done instead of scattered spreadsheets.
 
-## Our Principles
+## How we build
 
-- **Clarity:** Everyone should know what is expected of them and why it matters.
-- **Fairness:** Evaluation should rest on evidence and consistency, not impressions.
-- **Privacy & Security:** Organizational and personal data is protected by design, and every user sees
-  only what their role allows.
-- **Simplicity:** Powerful capabilities, delivered through an experience that stays out of the way.
-- **Local by design:** Built for the language, calendar and working culture of the organizations we serve.
+- Simple on the surface, careful underneath
+- Fast, accessible interfaces, with first-class support for Persian and right-to-left layouts
+- Honest software: clear about what it does and what it does with your data
 
-## Engineering
+## Get in touch
 
-TrueFlow is developed by a dedicated in-house team. We follow modern engineering practices, including
-modular architecture, automated testing, observability and secure-by-default infrastructure. This keeps the
-platform reliable, maintainable and ready to scale.
+Questions, partnerships or feedback: [info@faravandtech.ir](mailto:info@faravandtech.ir)
 
----
-
-<div align="center">
-
-<sub>© 2026 TrueFlow. All rights reserved.<br/>
-The TrueFlow name and brand are trademarks of TrueFlow.</sub>
-
-</div>
+<sub>© Faravand Intelligent Processing</sub>
