@@ -24,9 +24,11 @@
 
 ## About
 
-**Faravand Intelligent Processing** (پردازش هوشمند فراوند) is a software company based in Iran. We design and build products that take the friction out of everyday work in organizations, and help the people who run them decide with better information.
+Faravand Intelligent Processing is a software company based in Iran. We design, build and operate software products for organizations, with a focus on turning the data that everyday work produces into something people can act on.
 
-The name says what we aim for: *fara* (فرا) means "beyond" in Persian. Processing data is the starting point; making it useful to people is the job.
+Organizations run on goals, tasks, conversations and decisions that usually live in separate tools and spreadsheets. Our work is to bring those pieces together in products that are simple to adopt, reliable in daily use and clear about what they show. We apply data processing and AI where they solve a real problem for the people using the product, and leave them out where they do not.
+
+We handle the whole path ourselves, from product design to engineering and operation, so that what we ship stays consistent, secure and maintainable over time.
 
 ## What we work on
 
